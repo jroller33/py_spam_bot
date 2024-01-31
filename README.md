@@ -1,4 +1,4 @@
-# Python Bot that Scrapes Data from Online Database
+# Python Spam Bot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
